@@ -1,0 +1,1 @@
+python imageToIcon.py
